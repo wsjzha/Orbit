@@ -70,7 +70,7 @@ num_iter = 1;
 
 # size for split and the random seed range
 seed_max = num_iter*num_iter;
-test_size = 0.4;
+test_size = 0.4542873367404883588869960249858;
 
 # testing parameters
 Is_save_file = 0;
